@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/nikulianov/etm/static/css/main.4523cc6e.chunk.css",
+    "main.js": "/nikulianov/etm/static/js/main.e424b6e0.chunk.js",
+    "main.js.map": "/nikulianov/etm/static/js/main.e424b6e0.chunk.js.map",
+    "runtime-main.js": "/nikulianov/etm/static/js/runtime-main.7cae1bfb.js",
+    "runtime-main.js.map": "/nikulianov/etm/static/js/runtime-main.7cae1bfb.js.map",
+    "static/js/2.7caf5457.chunk.js": "/nikulianov/etm/static/js/2.7caf5457.chunk.js",
+    "static/js/2.7caf5457.chunk.js.map": "/nikulianov/etm/static/js/2.7caf5457.chunk.js.map",
+    "index.html": "/nikulianov/etm/index.html",
+    "precache-manifest.b55f54d4d51445df116db7a49181027f.js": "/nikulianov/etm/precache-manifest.b55f54d4d51445df116db7a49181027f.js",
+    "service-worker.js": "/nikulianov/etm/service-worker.js",
+    "static/css/main.4523cc6e.chunk.css.map": "/nikulianov/etm/static/css/main.4523cc6e.chunk.css.map",
+    "static/js/2.7caf5457.chunk.js.LICENSE.txt": "/nikulianov/etm/static/js/2.7caf5457.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7cae1bfb.js",
+    "static/js/2.7caf5457.chunk.js",
+    "static/css/main.4523cc6e.chunk.css",
+    "static/js/main.e424b6e0.chunk.js"
+  ]
+}
